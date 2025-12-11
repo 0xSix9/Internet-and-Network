@@ -1,6 +1,6 @@
 # Internet-Network
 # Fundamental Internet & Web Concepts Every Developer Must Know
-
+![Internet][https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BWo0_g8k_jVHDP_HqlN-jw.png]
 ## Internet
 ### What is the Internet?
 The Internet is the largest network ever created by humans — a huge network of interconnected devices, servers, cables, and satellites.
